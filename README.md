@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my github.
+
+There you can see about java/kotlin/android.
+
+### Who am i 🤔
+
+
+
 <!--
 **a1203991686/a1203991686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
